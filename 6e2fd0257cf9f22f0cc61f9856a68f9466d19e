@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 65854121b9cfbe2d034f4c2ad1d0063dc4b2fbd4 JoaoV23project <victormenezes.we@gmail.com> 1775086961 -0300	commit (initial): Adição do README.md e 1ªversatilização
+65854121b9cfbe2d034f4c2ad1d0063dc4b2fbd4 65854121b9cfbe2d034f4c2ad1d0063dc4b2fbd4 JoaoV23project <victormenezes.we@gmail.com> 1775087068 -0300	Branch: renamed refs/heads/master to refs/heads/main
+65854121b9cfbe2d034f4c2ad1d0063dc4b2fbd4 f88169fba9cb464c220ea77fe3171cdfed7b3fcb JoaoV23project <victormenezes.we@gmail.com> 1775098491 -0300	commit: Adição da tela de login e cadastro, além da implementação com o banco Sudabase, voltar no vídeo: 43:25
+f88169fba9cb464c220ea77fe3171cdfed7b3fcb 40c12c00019a7467ed38be7aa9bc00f1e9f13a7c JoaoV23project <victormenezes.we@gmail.com> 1775098695 -0300	commit: Alteração do README.md
+40c12c00019a7467ed38be7aa9bc00f1e9f13a7c 4fd54ac0a8f06dc2440d95f9a336490129138dbc JoaoV23project <victormenezes.we@gmail.com> 1775143007 -0300	commit: Implementação da página de cadastro, autentificação automatica para usuários recem-saidos do aplicativo e iniciação do paínel de exibição dos produtos comprados pelo cliente
+4fd54ac0a8f06dc2440d95f9a336490129138dbc 6670582ef590cc654bdc953d1c0669f6e800a5e7 JoaoV23project <victormenezes.we@gmail.com> 1775143148 -0300	pull: Merge made by the 'ort' strategy.
+6670582ef590cc654bdc953d1c0669f6e800a5e7 c32b65a20f9d509598d729b3db0036c91dcd6046 JoaoV23project <victormenezes.we@gmail.com> 1775267319 -0300	commit: Implementação de 90% da página de rastreamento
